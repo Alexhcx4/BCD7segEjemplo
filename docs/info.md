@@ -8,13 +8,13 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+¿Cómo funciona? (Describe el funcionamiento)
+BCD de 7 segmentos, esto es un ejemplo  
 
 ## How to test
 
-Explain how to use your project
+¿Cómo probar? (describe conexiones o equipos necesarios para pruebas)
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Hardware externo (Describe que elementos de hardware externos ocupará)
