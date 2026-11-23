@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 ¿Cómo funciona? (Describe el funcionamiento)
-BCD de 7 segmentos, esto es un ejemplo  
+BCD de 7 segmentos, esto es un ejemplo  2
 
 ## How to test
 
